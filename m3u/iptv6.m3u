@@ -125,6 +125,181 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 #EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视IPV6",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 
+#EXTINF:-1 group-title="港澳台",凤凰卫视
+https://us.dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?stream_id=cg4l8oajkyww&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://us.dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://us.dispatch.ulivetv.net/v/live/cfxs8eqh503k.m3u8?stream_id=cfxs8eqh503k&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",寰宇新闻
+https://us.dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",华视新闻
+https://us.dispatch.ulivetv.net/v/live/cfxxj2c5l6f4.m3u8?stream_id=cfxxj2c5l6f4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",中天新闻
+https://us.dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",镜新闻
+https://us.dispatch.ulivetv.net/v/live/cfxxf3nxvem8.m3u8?stream_id=cfxxf3nxvem8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",镜新闻HD
+https://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",镜天资讯
+https://us.dispatch.ulivetv.net/v/live/cg16rqyr0wqo.m3u8?stream_id=cg16rqyr0wqo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",中视新闻
+https://us.dispatch.ulivetv.net/v/live/clev54g636bk.m3u8?stream_id=clev54g636bk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",台视新闻
+https://us.dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVBSHD
+https://us.dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森财经新闻
+https://us.dispatch.ulivetv.net/v/live/cl7c5f64zg74.m3u8?stream_id=cl7c5f64zg74&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",年代新闻
+https://us.dispatch.ulivetv.net/v/live/cl7cbgg2j000.m3u8?stream_id=cl7cbgg2j000&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",非凡新闻
+https://us.dispatch.ulivetv.net/v/live/cl7cc13lsxc0.m3u8?stream_id=cl7cc13lsxc0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森新闻
+https://us.dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",J2
+https://dispatchnew.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB明珠
+https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",VIUTV
+https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",VIUTV6
+https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB翡翠台
+https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",NOW财经台
+https://us.dispatch.ulivetv.net/v/live/cnnrkvw6g98g.m3u8?stream_id=cnnrkvw6g98g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",澳门莲花
+https://us.dispatch.ulivetv.net/v/live/cl7c8hsq3f0g.m3u8?stream_id=cl7c8hsq3f0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB无线新闻
+https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB无线财经
+https://dispatchnew.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",RTHK31
+https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",RTHK32
+https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",HOYTV
+https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",HOY资讯
+https://dispatchnew.ulivetv.net/v/live/ccns0cgwuf9c.m3u8?stream_id=ccns0cgwuf9c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",香港国际财经
+https://dispatchnew.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",澳视澳门
+https://us.dispatch.ulivetv.net/v/live/cfxt168it3gg.m3u8?stream_id=cfxt168it3gg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",澳门资讯
+https://us.dispatch.ulivetv.net/v/live/cfxt8hrg64lc.m3u8?stream_id=cfxt8hrg64lc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB经典台
+https://us.dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",天映经典
+https://us.dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",天映频道
+https://us.dispatch.ulivetv.net/v/live/cg4jy3qvi6kg.m3u8?stream_id=cg4jy3qvi6kg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB华语剧台
+https://us.dispatch.ulivetv.net/v/live/ciw8gobsylds.m3u8?stream_id=ciw8gobsylds&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB星河
+https://us.dispatch.ulivetv.net/v/live/cl7c95iovqo0.m3u8?stream_id=cl7c95iovqo0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",NOW爆谷台
+https://us.dispatch.ulivetv.net/v/live/crq3y08d6hq8.m3u8?stream_id=crq3y08d6hq8%20%20&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB娱乐新闻
+https://us.dispatch.ulivetv.net/v/live/cnkh00kniz0g.m3u8?stream_id=cnkh00kniz0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB粤语片
+https://us.dispatch.ulivetv.net/v/live/cnv47oyqlmtc.m3u8?stream_id=cnv47oyqlmtc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB亚洲剧
+https://us.dispatch.ulivetv.net/v/live/cnyy2jy9gdds.m3u8?stream_id=cnyy2jy9gdds&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVB华剧
+https://us.dispatch.ulivetv.net/v/live/crxn7hd4vz9c.m3u8?stream_id=crxn7hd4vz9c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",中天综合
+https://us.dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",大爱二台
+https://us.dispatch.ulivetv.net/v/live/cl7c83atb64g.m3u8?stream_id=cl7c83atb64g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",大爱一台
+https://us.dispatch.ulivetv.net/v/live/cl7c7r2jpg3k.m3u8?stream_id=cl7c7r2jpg3k&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",中视
+https://us.dispatch.ulivetv.net/v/live/cfm2qel2kn9c.m3u8?stream_id=cfm2qel2kn9c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",公视
+https://us.dispatch.ulivetv.net/v/live/cg0hhu6qlpz4.m3u8?stream_id=cg0hhu6qlpz4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",公视3
+https://us.dispatch.ulivetv.net/v/live/cg0hro4vn54w.m3u8?stream_id=cg0hro4vn54w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",中天亚洲
+https://us.dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森超视
+https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",靖天国际台
+https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVBS亚洲
+https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",八大综合
+https://us.dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",客家电视台
+https://us.dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森综合
+https://us.dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",中视
+https://us.dispatch.ulivetv.net/v/live/cl7c5tec5wow.m3u8?stream_id=cl7c5tec5wow&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",华视
+https://us.dispatch.ulivetv.net/v/live/cl7c69hc4m2o.m3u8?stream_id=cl7c69hc4m2o&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",台视
+https://us.dispatch.ulivetv.net/v/live/cl7c6o644t6o.m3u8?stream_id=cl7c6o644t6o&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",纬来日本
+https://us.dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",纬来综合
+https://us.dispatch.ulivetv.net/v/live/cl7clh349vpc.m3u8?stream_id=cl7clh349vpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",八大第一
+https://us.dispatch.ulivetv.net/v/live/cs0cbcjywtog.m3u8?stream_id=cs0cbcjywtog&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",ELTA综合
+https://us.dispatch.ulivetv.net/v/live/cl7cqw6n9sqo.m3u8?stream_id=cl7cqw6n9sqo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",TVBS欢乐
+https://us.dispatch.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?stream_id=cg0hzu3sgc00&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",中天娱乐
+https://us.dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",八大娱乐
+https://us.dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森电影HD
+https://us.dispatch.ulivetv.net/v/live/cg488dxn8xxc.m3u8?stream_id=cg488dxn8xxc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森电影
+https://us.dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7caihk7zr4.m3u8?stream_id=cl7caihk7zr4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",东森洋片
+https://us.dispatch.ulivetv.net/v/live/cl7cavg498sg.m3u8?stream_id=cl7cavg498sg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",卫视中文台
+https://us.dispatch.ulivetv.net/v/live/cl7ciyx4pznk.m3u8?stream_id=cl7ciyx4pznk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",卫视电影台
+https://us.dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",龙祥电影台
+https://us.dispatch.ulivetv.net/v/live/cl7cjqrlyzeo.m3u8?stream_id=cl7cjqrlyzeo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",好莱坞电影
+https://us.dispatch.ulivetv.net/v/live/cl7ck1qkwzpc.m3u8?stream_id=cl7ck1qkwzpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",八大戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7ckupkipc0.m3u8?stream_id=cl7ckupkipc0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",纬来戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7cm1w9tl1c.m3u8?stream_id=cl7cm1w9tl1c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",纬来电影
+https://us.dispatch.ulivetv.net/v/live/cl7cmdp021mo.m3u8?stream_id=cl7cmdp021mo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",龙华电影
+https://us.dispatch.ulivetv.net/v/live/cl7cmqsyvdmo.m3u8?stream_id=cl7cmqsyvdmo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",龙华洋片
+https://us.dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",靖天电影
+https://us.dispatch.ulivetv.net/v/live/cl7cnhrqwreo.m3u8?stream_id=cl7cnhrqwreo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",美亚电影
+https://us.dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",MTV Live HD
+https://us.dispatch.ulivetv.net/v/live/clecsxddtsxs.m3u8?stream_id=clecsxddtsxs&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",靖洋戏剧
+https://us.dispatch.ulivetv.net/v/live/clect8xzw534.m3u8?stream_id=clect8xzw534&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",ELTA影剧
+https://us.dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",ELTA戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&token=c0vzuc7wqkzk
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV6",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
