@@ -140,26 +140,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001098/index.m3u8?
 #EXTINF:-1 tvg-name="北京纪实科教" group-title="港澳台",北京纪实科教
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001231/index.m3u8?
-#EXTINF:-1 group-title="热门游戏" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/81ab86c2038c446ab283c39544c15dc8_middle.jpg",广小广
-https://tv.iill.top/douyu/10306305
-#EXTINF:-1 group-title="金铲铲之战" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/3d69bc2de3c84decb0092da987f72c89_middle.jpg",景川川啊
-https://tv.iill.top/douyu/10307271
-#EXTINF:-1 group-title="趣生活" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/db77a498f946444483fa2243baa36eb9_middle.jpg",爱爱小s
-https://tv.iill.top/douyu/10308312
-#EXTINF:-1 group-title="COD手游" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/bcf0fe84b25e49429b828259b0a5bac6_middle.jpg",子伊呀
-https://tv.iill.top/douyu/10310926
-#EXTINF:-1 group-title="交友" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/fe8e9b034d4f415ab6885c5aff8b2151_middle.jpg",小象一夜星光
-https://tv.iill.top/douyu/10312279
-#EXTINF:-1 group-title="王者荣耀" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/c6a2ec0e9e8e4d919b53fce6951fb0a5_middle.jpg",兔子先森Chris
-https://tv.iill.top/douyu/1031288
-#EXTINF:-1 group-title="交友" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/ba80439d02c14b579a8069a4ceab91c9_middle.jpg",YAQ一惊鸿一瞥
-https://tv.iill.top/douyu/10313822
-#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/8cc63f8ba57b439186ef19be9837c151_middle.jpg",Dy小琳er
-https://tv.iill.top/douyu/10316896
-#EXTINF:-1 group-title="趣生活" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c7d253e144c04a2c8e4806ecd680dc19_middle.jpg",文侠灬楊楊
-https://tv.iill.top/douyu/10317257
-#EXTINF:-1 group-title="颜值（横屏）" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/f61c3b5b5fd34eb5b8e9376f0e090553_middle.jpg",今日很甜丫
-https://tv.iill.top/douyu/10317265
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV6",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
