@@ -145,6 +145,111 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001098/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001231/index.m3u8?
 
 
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+http://cs.iptv6.top/dsm.php?id=test1_4000
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港台",翡翠台
+http://119.91.192.228/TVOD/88888888/gudou.php?id=1350_4500
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
+http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港香港",明珠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="香港",星河频道
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="澳香港",无线新闻
+http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
+http://sc2022.stream-link.org/tv2306.php?id=h06
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="香港",无线财经
+http://sc2022.stream-link.org/list.php?id=h005
+#EXTINF:-1,tvg-id="有线直播" tvg-name="有线直播" tvg-logo="https://epg.112114.xyz/logo/有线直播.png" group-title="香港",有线直播
+http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
+#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="其香港",NOW新闻
+http://sc2022.stream-link.org/tv2306.php?id=c03
+#EXTINF:-1,tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://epg.112114.xyz/logo/港台电视31.png" group-title="香港",港台电视31
+http://sc2022.stream-link.org/tv2306.php?id=h08
+#EXTINF:-1,tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://epg.112114.xyz/logo/港台电视32.png" group-title="香港",港台电视32
+http://sc2022.stream-link.org/tv2306.php?id=h09
+
+#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="台湾",東森新聞
+http://sc2022.stream-link.org/tv2306.php?id=t01
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="台湾",中天新聞
+http://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="台湾",華視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t04
+#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="台湾",中視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="台湾",民視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t06
+#EXTINF:-1,tvg-id="寰宇國際新聞" tvg-name="寰宇國際新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇國際新聞.png" group-title="台湾",寰宇國際新聞
+http://sc2022.stream-link.org/tv2306.php?id=t07
+#EXTINF:-1,tvg-id="寰宇台灣新聞" tvg-name="寰宇台灣新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇台灣新聞.png" group-title="台湾",寰宇台灣新聞
+http://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1,tvg-id="三立財經新聞" tvg-name="三立財經新聞" tvg-logo="https://epg.112114.xyz/logo/三立財經新聞.png" group-title="台湾",三立財經新聞
+http://sc2022.stream-link.org/tv2306.php?id=t09
+#EXTINF:-1,tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://epg.112114.xyz/logo/三立新聞.png" group-title="台湾",三立新聞
+http://sc2022.stream-link.org/tv2306.php?id=t10
+#EXTINF:-1,tvg-id="三立新聞+" tvg-name="三立新聞+" tvg-logo="https://epg.112114.xyz/logo/三立新聞+.png" group-title="台湾",三立新聞+
+http://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1,tvg-id="三立新聞+" tvg-name="三立新聞+" tvg-logo="https://epg.112114.xyz/logo/三立新聞+.png" group-title="台湾",三立新聞+
+https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+#EXTINF:-1,tvg-id="三立台灣" tvg-name="三立台灣" tvg-logo="https://epg.112114.xyz/logo/三立台灣.png" group-title="台湾",三立台灣
+http://sc2022.stream-link.org/tv2306.php?id=t23
+#EXTINF:-1,tvg-id="三立都會" tvg-name="三立都會" tvg-logo="https://epg.112114.xyz/logo/三立都會.png" group-title="台湾",三立都會
+http://sc2022.stream-link.org/tv2306.php?id=t24
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="台湾",台視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t12
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新聞
+http://sc2022.stream-link.org/tv2306.php?id=t13
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS財經
+http://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="台湾",中天亞洲台
+http://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亞洲台
+http://sc2022.stream-link.org/tv2306.php?id=t16
+#EXTINF:-1,tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="台湾",民視HD
+http://sc2022.stream-link.org/tv2306.php?id=t17
+#EXTINF:-1,tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="台湾",民視第一台
+http://sc2022.stream-link.org/tv2306.php?id=t18
+#EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="台湾",民視台灣台
+http://sc2022.stream-link.org/tv2306.php?id=t19
+#EXTINF:-1,tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://epg.112114.xyz/logo/民視綜藝台.png" group-title="台湾",民視綜藝台
+http://sc2022.stream-link.org/tv2306.php?id=t20
+#EXTINF:-1,tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://epg.112114.xyz/logo/民視影劇台.png" group-title="台湾",民視影劇台
+http://sc2022.stream-link.org/tv2306.php?id=t21
+#EXTINF:-1,tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://epg.112114.xyz/logo/民視旅遊台.png" group-title="台湾",民視旅遊台
+http://sc2022.stream-link.org/tv2306.php?id=t22
+#EXTINF:-1,tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.112114.xyz/logo/天映电影.png" group-title="台湾",天映电影
+http://120.84.96.87:808/hls/85/index.m3u8
+#EXTINF:-1,tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.112114.xyz/logo/天映电影.png" group-title="台湾",天映电影
+http://120.84.96.89:808/hls/85/index.m3u8
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="台湾",东森电影
+http://120.84.96.87:808/hls/32/index.m3u8
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="台湾",东森电影
+http://120.84.96.89:808/hls/32/index.m3u8
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="台湾",东森电影
+http://120.84.96.82:808/hls/32/index.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="台湾",东森洋片
+http://120.84.96.87:808/hls/33/index.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="台湾",东森洋片
+http://120.84.96.89:808/hls/33/index.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="台湾",东森洋片
+http://120.84.96.82:808/hls/33/index.m3u8
+#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="台湾",龙祥时代
+http://120.84.96.87:808/hls/35/index.m3u8
+#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="台湾",龙祥时代
+http://120.84.96.89:808/hls/35/index.m3u8
+#EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="台湾",好莱坞电影
+http://120.84.96.87:808/hls/24/index.m3u8
+#EXTINF:-1,tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://epg.112114.xyz/logo/金马影院.png" group-title="台湾",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV6",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV6",咪咕直播4K-2
