@@ -143,14 +143,20 @@ http://live.cooltv.top/tv/bestv.php?id=19
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ym.png" group-title="卫视IPV6",优漫卡通
 http://[2409:8087:5011:1020::1a]/180000001001/00000000000000020000000000182321/main.m3u8?IASHttpSessionId=OTT
 
-#EXTINF:-1 tvg-name="凤凰中文" group-title="港澳台",凤凰中文「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-name="第一财经" group-title="港澳台",第一财经「IPV6」
+#EXTINF:-1 tvg-name="凤凰中文" group-title="港澳台",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-name="第一财经" group-title="港澳台",第一财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="港澳台",金鹰纪实「IPV6」
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="港澳台",金鹰纪实
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="港澳台",金鹰卡通
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001098/index.m3u8?
+#EXTINF:-1 tvg-name="北京纪实科教" group-title="港澳台",北京纪实科教
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001231/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV6",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
