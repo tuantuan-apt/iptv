@@ -63,10 +63,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
 #EXTINF:-1 tvg-name="CETV4" group-title="央视IPV6",CETV4传统文化
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
-#EXTINF:-1 tvg-name="中国教育" group-title="央视IPV6",中国教育
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
-#EXTINF:-1 tvg-name="职教频道" group-title="央视IPV6",职教频道
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
 #EXTINF:-1 tvg-name="CGTV" group-title="央视IPV6",CGTV中国国际
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="动作电影" group-title="央视IPV6",动作电影
@@ -139,7 +135,6 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视IPV6",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/cetv4.png" group-title="卫视IPV6",CETV-4空中课堂
 
 
 #EXTINF:-1 tvg-name="凤凰中文" group-title="港澳台",凤凰中文
